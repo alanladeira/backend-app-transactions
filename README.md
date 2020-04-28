@@ -23,8 +23,8 @@ Essa será uma aplicação que deve armazenar transações financeiras de entrad
 - prettier
 
 ## Iniciar o projeto
-- git clone https://github.com/alanladeira/backend-app-transactions.git
-- cd backend-app-transactions
+- git clone https://github.com/alanladeira/backend-gofinances.git
+- cd backend-gofinances
 - yarn
 
 
